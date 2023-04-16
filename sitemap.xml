@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://romspi.github.io/gh-pagec/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://romspi.github.io/gh-pagec/</loc>
+</url>
+<url>
+<loc>https://romspi.github.io/gh-pagec/kok.html</loc>
+<lastmod>2023-04-16T20:40:42+03:00</lastmod>
+</url>
+<url>
+<loc>https://romspi.github.io/gh-pagec/test.html</loc>
+<lastmod>2023-04-16T14:55:44+03:00</lastmod>
+</url>
+</urlset>

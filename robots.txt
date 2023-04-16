@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://romspi.github.io/gh-pagec/sitemap.xml

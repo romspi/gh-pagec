@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>givepepper.com</title>
+    <link href="https://romspi.github.io/gh-pagec/feed.xml" rel="self" />
+    <link href="https://romspi.github.io/gh-pagec" />
+    <updated>2023-04-16T20:40:42+03:00</updated>
+    <author>
+        <name>Rom Spi</name>
+    </author>
+    <id>https://romspi.github.io/gh-pagec</id>
+
+    <entry>
+        <title>kok</title>
+        <author>
+            <name>Rom Spi</name>
+        </author>
+        <link href="https://romspi.github.io/gh-pagec/kok.html"/>
+        <id>https://romspi.github.io/gh-pagec/kok.html</id>
+
+        <updated>2023-04-16T20:40:42+03:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>test</title>
+        <author>
+            <name>Rom Spi</name>
+        </author>
+        <link href="https://romspi.github.io/gh-pagec/test.html"/>
+        <id>https://romspi.github.io/gh-pagec/test.html</id>
+
+        <updated>2023-04-16T14:55:44+03:00</updated>
+            <summary>
+                <![CDATA[
+                    test
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    test
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
